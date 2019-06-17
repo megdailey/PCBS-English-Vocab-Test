@@ -1,11 +1,11 @@
 # PCBS English Vocabulary Test
-Visual world paradigm experiment designed to compare phonological processing in native and non-native speakers of English. The experiment was coded in Expyriment, code available [here](evt2.py).
+Visual world paradigm experiment designed to compare phonological processing in native and non-native speakers of English. The experiment was coded in Expyriment, code available [here](evt3.py).
 
 ## Allophonic processing in a second language
 Are late learners of English sensitive to allophonic distributions that don't occur in their native language? Do allophonic relationships affect processing speed in late learners compared to native speakers?
 
 #### Background: Sound patterns in French and English
-Nasal vowels pattern phonemically in French (distinguish meaning: *main* = /mɑ̃/, *ma* = /mɑ/) but allophonically in English (only before nasal consonants: *man* = /mæ̃n/, *mad* = /mæd/). If native speakers of English use this distributional nasal vowel cue to "speed up" word recognition, can French learners of English do the same?
+Nasal vowels pattern phonemically in French (distinguish meaning: *main* = /mɛ̃/, *mais* = /mɛ/) but allophonically in English (only before nasal consonants: *man* = /mæ̃n/, *mad* = /mæd/). If native speakers of English use this distributional nasal vowel cue to "speed up" word recognition, can French learners of English do the same?
 
 #### Task
  Participants are one group of francophone learners of English and one group of native speakers of English. Stimuli in each trial consist of a nasal-oral minimal pair (bunny/butter) and two phonologically unrelated stimuli (lipstick/teddy bear).
